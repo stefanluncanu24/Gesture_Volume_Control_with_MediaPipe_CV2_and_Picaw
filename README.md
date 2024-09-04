@@ -15,4 +15,4 @@ This project uses MediaPipe, OpenCV, and the Picaw Python library to enable intu
 
 ## Contributing
 
-Feel free to fork this project and submit pull requests. You can also open an issue for bugs or feature requests.
+Feel free to fork this project and submit pull requests.
